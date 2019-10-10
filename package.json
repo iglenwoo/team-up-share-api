@@ -1,0 +1,30 @@
+{
+  "name": "team-up-share-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node dist/index.js",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iglenwoo/team-up-share-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iglenwoo/team-up-share-api/issues"
+  },
+  "homepage": "https://github.com/iglenwoo/team-up-share-api#readme",
+  "devDependencies": {
+    "@types/express": "^4.17.1",
+    "@types/node": "^12.7.12",
+    "typescript": "^3.6.4"
+  },
+  "dependencies": {
+    "ejs": "^2.7.1",
+    "express": "^4.17.1"
+  }
+}
